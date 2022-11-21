@@ -1,0 +1,33 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+	  <Description>FbSql Entity Framework Core implementation of commands and queries for Core Storage for ASP.NET Core</Description>
+	  <Version>0.9.0</Version>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+	<ItemGroup>
+
+		<PackageReference Include="cloudscribe.Core.Models" Version="6.0.*" />
+
+		<PackageReference Include="cloudscribe.Core.Storage.EFCore.Common" Version="6.0.*" />
+
+		<PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="6.0.*" />
+		<PackageReference Include="Microsoft.Extensions.Configuration" Version="6.0.*" />
+		<PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="6.0.*" />
+
+		<PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.*" />
+		<PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="6.0.*">
+		  <PrivateAssets>all</PrivateAssets>
+		  <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+		</PackageReference>
+		<PackageReference Include="Microsoft.EntityFrameworkCore.Relational" Version="6.0.*" />
+		<PackageReference Include="FirebirdSql.EntityFrameworkCore.Firebird" Version="9.1.0" />
+
+
+	</ItemGroup>
+
+
+</Project>
