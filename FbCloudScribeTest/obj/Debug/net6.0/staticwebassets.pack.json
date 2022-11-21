@@ -1,0 +1,573 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\css\\fontawesome-all.css",
+      "PackagePath": "staticwebassets\\css\\fontawesome-all.css"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\css\\fontawesome-all.min.css",
+      "PackagePath": "staticwebassets\\css\\fontawesome-all.min.css"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\css\\ie11.css",
+      "PackagePath": "staticwebassets\\css\\ie11.css"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\css\\site.min.css",
+      "PackagePath": "staticwebassets\\css\\site.min.css"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\images\\Kylmala_00.jpg",
+      "PackagePath": "staticwebassets\\images\\Kylmala_00.jpg"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\images\\Kylmala_00.webp",
+      "PackagePath": "staticwebassets\\images\\Kylmala_00.webp"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\images\\Kylmala_01.JPG",
+      "PackagePath": "staticwebassets\\images\\Kylmala_01.JPG"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\images\\Kylmala_01.webp",
+      "PackagePath": "staticwebassets\\images\\Kylmala_01.webp"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\images\\Kylmala_02.JPG",
+      "PackagePath": "staticwebassets\\images\\Kylmala_02.JPG"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\images\\Kylmala_02.webp",
+      "PackagePath": "staticwebassets\\images\\Kylmala_02.webp"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\images\\Kylmala_03.jpg",
+      "PackagePath": "staticwebassets\\images\\Kylmala_03.jpg"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\images\\Kylmala_03.webp",
+      "PackagePath": "staticwebassets\\images\\Kylmala_03.webp"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\images\\Kylmala_04.JPG",
+      "PackagePath": "staticwebassets\\images\\Kylmala_04.JPG"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\images\\Kylmala_04.webp",
+      "PackagePath": "staticwebassets\\images\\Kylmala_04.webp"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\images\\Kylmala_05.jpg",
+      "PackagePath": "staticwebassets\\images\\Kylmala_05.jpg"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\images\\Kylmala_05.webp",
+      "PackagePath": "staticwebassets\\images\\Kylmala_05.webp"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\images\\Kylmala_06.jpg",
+      "PackagePath": "staticwebassets\\images\\Kylmala_06.jpg"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\images\\Kylmala_06.webp",
+      "PackagePath": "staticwebassets\\images\\Kylmala_06.webp"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\images\\Kylmala_07.jpg",
+      "PackagePath": "staticwebassets\\images\\Kylmala_07.jpg"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\images\\Kylmala_07.webp",
+      "PackagePath": "staticwebassets\\images\\Kylmala_07.webp"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\images\\Kylmala_08.jpg",
+      "PackagePath": "staticwebassets\\images\\Kylmala_08.jpg"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\images\\Kylmala_08.webp",
+      "PackagePath": "staticwebassets\\images\\Kylmala_08.webp"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\images\\Kylmala_09.JPG",
+      "PackagePath": "staticwebassets\\images\\Kylmala_09.JPG"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\images\\Kylmala_09.webp",
+      "PackagePath": "staticwebassets\\images\\Kylmala_09.webp"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\images\\Kylmala_10.jpg",
+      "PackagePath": "staticwebassets\\images\\Kylmala_10.jpg"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\images\\Kylmala_10.webp",
+      "PackagePath": "staticwebassets\\images\\Kylmala_10.webp"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\images\\Kylmala_11.JPG",
+      "PackagePath": "staticwebassets\\images\\Kylmala_11.JPG"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\images\\Kylmala_11.webp",
+      "PackagePath": "staticwebassets\\images\\Kylmala_11.webp"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\images\\Kylmala_12.jpg",
+      "PackagePath": "staticwebassets\\images\\Kylmala_12.jpg"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\images\\Kylmala_12.webp",
+      "PackagePath": "staticwebassets\\images\\Kylmala_12.webp"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\images\\Kylmala_13.jpg",
+      "PackagePath": "staticwebassets\\images\\Kylmala_13.jpg"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\images\\Kylmala_13.webp",
+      "PackagePath": "staticwebassets\\images\\Kylmala_13.webp"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\images\\Kylmala_14.JPG",
+      "PackagePath": "staticwebassets\\images\\Kylmala_14.JPG"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\images\\Kylmala_14.webp",
+      "PackagePath": "staticwebassets\\images\\Kylmala_14.webp"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\images\\Kylmala_15.jpg",
+      "PackagePath": "staticwebassets\\images\\Kylmala_15.jpg"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\images\\Kylmala_15.webp",
+      "PackagePath": "staticwebassets\\images\\Kylmala_15.webp"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\images\\Kylmala_16.JPG",
+      "PackagePath": "staticwebassets\\images\\Kylmala_16.JPG"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\images\\Kylmala_16.webp",
+      "PackagePath": "staticwebassets\\images\\Kylmala_16.webp"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\images\\Kylmala_17.JPG",
+      "PackagePath": "staticwebassets\\images\\Kylmala_17.JPG"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\images\\Kylmala_17.webp",
+      "PackagePath": "staticwebassets\\images\\Kylmala_17.webp"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\images\\Kylmala_18.JPG",
+      "PackagePath": "staticwebassets\\images\\Kylmala_18.JPG"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\images\\Kylmala_18.webp",
+      "PackagePath": "staticwebassets\\images\\Kylmala_18.webp"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\images\\Kylmala_19.jpg",
+      "PackagePath": "staticwebassets\\images\\Kylmala_19.jpg"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\images\\Kylmala_19.webp",
+      "PackagePath": "staticwebassets\\images\\Kylmala_19.webp"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\images\\Kylmala_20.JPG",
+      "PackagePath": "staticwebassets\\images\\Kylmala_20.JPG"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\images\\Kylmala_20.webp",
+      "PackagePath": "staticwebassets\\images\\Kylmala_20.webp"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\images\\Kylmala_21.JPG",
+      "PackagePath": "staticwebassets\\images\\Kylmala_21.JPG"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\images\\Kylmala_21.webp",
+      "PackagePath": "staticwebassets\\images\\Kylmala_21.webp"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\images\\Kylmala_22.jpg",
+      "PackagePath": "staticwebassets\\images\\Kylmala_22.jpg"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\images\\Kylmala_22.webp",
+      "PackagePath": "staticwebassets\\images\\Kylmala_22.webp"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\images\\Kylmala_23.JPG",
+      "PackagePath": "staticwebassets\\images\\Kylmala_23.JPG"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\images\\Kylmala_23.webp",
+      "PackagePath": "staticwebassets\\images\\Kylmala_23.webp"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\images\\Kylmala_24.JPG",
+      "PackagePath": "staticwebassets\\images\\Kylmala_24.JPG"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\images\\Kylmala_24.webp",
+      "PackagePath": "staticwebassets\\images\\Kylmala_24.webp"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\images\\Kylmala_25.jpg",
+      "PackagePath": "staticwebassets\\images\\Kylmala_25.jpg"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\images\\Kylmala_25.webp",
+      "PackagePath": "staticwebassets\\images\\Kylmala_25.webp"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\images\\Kylmala_26.jpg",
+      "PackagePath": "staticwebassets\\images\\Kylmala_26.jpg"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\images\\Kylmala_26.webp",
+      "PackagePath": "staticwebassets\\images\\Kylmala_26.webp"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\images\\Kylmala_27.jpg",
+      "PackagePath": "staticwebassets\\images\\Kylmala_27.jpg"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\images\\Kylmala_27.webp",
+      "PackagePath": "staticwebassets\\images\\Kylmala_27.webp"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\images\\Kylmala_28.jpg",
+      "PackagePath": "staticwebassets\\images\\Kylmala_28.jpg"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\images\\Kylmala_28.webp",
+      "PackagePath": "staticwebassets\\images\\Kylmala_28.webp"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\images\\Kylmala_29.JPG",
+      "PackagePath": "staticwebassets\\images\\Kylmala_29.JPG"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\images\\Kylmala_29.webp",
+      "PackagePath": "staticwebassets\\images\\Kylmala_29.webp"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\images\\Kylmala_30.JPG",
+      "PackagePath": "staticwebassets\\images\\Kylmala_30.JPG"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\images\\Kylmala_30.webp",
+      "PackagePath": "staticwebassets\\images\\Kylmala_30.webp"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\images\\Kylmala_31.jpg",
+      "PackagePath": "staticwebassets\\images\\Kylmala_31.jpg"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\images\\Kylmala_31.webp",
+      "PackagePath": "staticwebassets\\images\\Kylmala_31.webp"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\images\\Kylmala_32.jpg",
+      "PackagePath": "staticwebassets\\images\\Kylmala_32.jpg"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\images\\Kylmala_32.webp",
+      "PackagePath": "staticwebassets\\images\\Kylmala_32.webp"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\images\\Kylmala_33.jpg",
+      "PackagePath": "staticwebassets\\images\\Kylmala_33.jpg"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\images\\Kylmala_33.webp",
+      "PackagePath": "staticwebassets\\images\\Kylmala_33.webp"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\images\\Kylmala_34.jpg",
+      "PackagePath": "staticwebassets\\images\\Kylmala_34.jpg"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\images\\Kylmala_34.webp",
+      "PackagePath": "staticwebassets\\images\\Kylmala_34.webp"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\images\\Kylmala_35.jpg",
+      "PackagePath": "staticwebassets\\images\\Kylmala_35.jpg"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\images\\Kylmala_35.webp",
+      "PackagePath": "staticwebassets\\images\\Kylmala_35.webp"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\images\\Kylmala_36.JPG",
+      "PackagePath": "staticwebassets\\images\\Kylmala_36.JPG"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\images\\Kylmala_36.webp",
+      "PackagePath": "staticwebassets\\images\\Kylmala_36.webp"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\images\\banner_Frantsila_01.JPG",
+      "PackagePath": "staticwebassets\\images\\banner_Frantsila_01.JPG"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\images\\banner_Frantsila_02.jpg",
+      "PackagePath": "staticwebassets\\images\\banner_Frantsila_02.jpg"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\images\\banner_Frantsila_03.jpg",
+      "PackagePath": "staticwebassets\\images\\banner_Frantsila_03.jpg"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\images\\blockbullets.png",
+      "PackagePath": "staticwebassets\\images\\blockbullets.png"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\images\\blockheadericon.png",
+      "PackagePath": "staticwebassets\\images\\blockheadericon.png"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\images\\fond-text.png",
+      "PackagePath": "staticwebassets\\images\\fond-text.png"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\images\\fond-text.xcf",
+      "PackagePath": "staticwebassets\\images\\fond-text.xcf"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\images\\footerbullets.png",
+      "PackagePath": "staticwebassets\\images\\footerbullets.png"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\images\\footerfacebookicon.png",
+      "PackagePath": "staticwebassets\\images\\footerfacebookicon.png"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\images\\footerrssicon.png",
+      "PackagePath": "staticwebassets\\images\\footerrssicon.png"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\images\\footertwittericon.png",
+      "PackagePath": "staticwebassets\\images\\footertwittericon.png"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\images\\header.jpg",
+      "PackagePath": "staticwebassets\\images\\header.jpg"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\images\\menuseparator.png",
+      "PackagePath": "staticwebassets\\images\\menuseparator.png"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\images\\no-avatar.jpg",
+      "PackagePath": "staticwebassets\\images\\no-avatar.jpg"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\images\\postauthoricon.png",
+      "PackagePath": "staticwebassets\\images\\postauthoricon.png"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\images\\postbullets.png",
+      "PackagePath": "staticwebassets\\images\\postbullets.png"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\images\\postdateicon.png",
+      "PackagePath": "staticwebassets\\images\\postdateicon.png"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\images\\postediticon.png",
+      "PackagePath": "staticwebassets\\images\\postediticon.png"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\images\\postheadericon.png",
+      "PackagePath": "staticwebassets\\images\\postheadericon.png"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\images\\postquote.png",
+      "PackagePath": "staticwebassets\\images\\postquote.png"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\images\\preloader-01.gif",
+      "PackagePath": "staticwebassets\\images\\preloader-01.gif"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\images\\searchicon.png",
+      "PackagePath": "staticwebassets\\images\\searchicon.png"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\images\\spacer.gif",
+      "PackagePath": "staticwebassets\\images\\spacer.gif"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\images\\template_preview.png",
+      "PackagePath": "staticwebassets\\images\\template_preview.png"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\images\\vmenuactiveitemicon.png",
+      "PackagePath": "staticwebassets\\images\\vmenuactiveitemicon.png"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\images\\vmenuhovereditemicon.png",
+      "PackagePath": "staticwebassets\\images\\vmenuhovereditemicon.png"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\images\\vmenuitemicon.png",
+      "PackagePath": "staticwebassets\\images\\vmenuitemicon.png"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\js\\jquery.js",
+      "PackagePath": "staticwebassets\\js\\jquery.js"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\dev vs2022\\FbCloudScribeTest\\FbCloudScribeTest\\wwwroot\\wlwmanifest.xml",
+      "PackagePath": "staticwebassets\\wlwmanifest.xml"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.FbCloudScribeTest.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.FbCloudScribeTest.props",
+      "PackagePath": "build\\FbCloudScribeTest.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.FbCloudScribeTest.props",
+      "PackagePath": "buildMultiTargeting\\FbCloudScribeTest.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.FbCloudScribeTest.props",
+      "PackagePath": "buildTransitive\\FbCloudScribeTest.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

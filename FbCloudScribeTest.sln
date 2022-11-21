@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33103.201
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FbCloudScribeTest", "FbCloudScribeTest\FbCloudScribeTest.csproj", "{1A85F43B-5210-43ED-B7ED-46CCB6587909}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "cloudscribe.Core.Storage.EFCore.FirebirdSQL", "cloudscribe.Core.Storage.EFCore.FirebirdSQL\cloudscribe.Core.Storage.EFCore.FirebirdSQL.csproj", "{CF8F4D77-75C7-4F92-9B08-16ACAAD4FD7D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "cloudscribe.DynamicPolicy.Storage.EFCore.FirebirdSQL", "cloudscribe.DynamicPolicy.Storage.EFCore.FirebirdSQL\cloudscribe.DynamicPolicy.Storage.EFCore.FirebirdSQL.csproj", "{7DBD755D-1C26-4908-A562-D3C3D2DD1650}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "cloudscribe.Logging.EFCore.FirebirdSQL", "cloudscribe.Logging.EFCore.FirebirdSQL\cloudscribe.Logging.EFCore.FirebirdSQL.csproj", "{B8AA2D58-33E9-44C2-B399-5B0353655541}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "cloudscribe.SimpleContent.Storage.EFCore.FirebirdSQL", "cloudscribe.SimpleContent.Storage.EFCore.FirebirdSQL\cloudscribe.SimpleContent.Storage.EFCore.FirebirdSQL.csproj", "{B868A5C1-6647-4ACE-8F6F-8B1B4BAC13E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A85F43B-5210-43ED-B7ED-46CCB6587909}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A85F43B-5210-43ED-B7ED-46CCB6587909}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A85F43B-5210-43ED-B7ED-46CCB6587909}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A85F43B-5210-43ED-B7ED-46CCB6587909}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF8F4D77-75C7-4F92-9B08-16ACAAD4FD7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF8F4D77-75C7-4F92-9B08-16ACAAD4FD7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF8F4D77-75C7-4F92-9B08-16ACAAD4FD7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF8F4D77-75C7-4F92-9B08-16ACAAD4FD7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DBD755D-1C26-4908-A562-D3C3D2DD1650}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DBD755D-1C26-4908-A562-D3C3D2DD1650}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DBD755D-1C26-4908-A562-D3C3D2DD1650}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DBD755D-1C26-4908-A562-D3C3D2DD1650}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8AA2D58-33E9-44C2-B399-5B0353655541}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8AA2D58-33E9-44C2-B399-5B0353655541}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8AA2D58-33E9-44C2-B399-5B0353655541}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8AA2D58-33E9-44C2-B399-5B0353655541}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B868A5C1-6647-4ACE-8F6F-8B1B4BAC13E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B868A5C1-6647-4ACE-8F6F-8B1B4BAC13E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B868A5C1-6647-4ACE-8F6F-8B1B4BAC13E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B868A5C1-6647-4ACE-8F6F-8B1B4BAC13E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A5BBCA0-8226-47B5-A728-E25481546F38}
+	EndGlobalSection
+EndGlobal
