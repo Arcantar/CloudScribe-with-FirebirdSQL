@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+	<Description>FirebirdSQL Entity Framework Core implementation of cloudscribe SimpleContent commands and queries</Description>
+	  <Version>0.9.0</Version>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="cloudscribe.SimpleContent.Models" Version="6.0.0" />
+		<PackageReference Include="cloudscribe.SimpleContent.Storage.EFCore.Common" Version="6.0.0" />
+		<PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.*" />
+		<PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="6.0.*">
+		  <PrivateAssets>all</PrivateAssets>
+		  <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+		</PackageReference>
+		<PackageReference Include="FirebirdSql.EntityFrameworkCore.Firebird" Version="9.1.0" />
+		
+	</ItemGroup>
+
+</Project>
