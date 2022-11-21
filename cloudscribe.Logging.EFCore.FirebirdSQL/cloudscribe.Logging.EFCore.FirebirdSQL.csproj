@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+	  <Description>FbSql Entity Framework Core implementation of commands and queries for Logging for ASP.NET Core</Description>
+	  <Version>0.9.0</Version>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="cloudscribe.Logging" Version="6.0.*" />
+		<PackageReference Include="cloudscribe.Logging.EFCore.Common" Version="6.0.*" />
+		<PackageReference Include="cloudscribe.Versioning" Version="6.0.*" />
+		<PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.*" />
+		<PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="6.0.*">
+		  <PrivateAssets>all</PrivateAssets>
+		  <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+		</PackageReference>
+		<PackageReference Include="FirebirdSql.EntityFrameworkCore.Firebird" Version="9.1.0" />
+
+	</ItemGroup>
+
+</Project>
