@@ -81,7 +81,6 @@
     <PackageReference Include="cloudscribe.Core.Web" Version="6.0.*" />
     <PackageReference Include="cloudscribe.Core.CompiledViews.Bootstrap5" Version="6.0.*" />
     <PackageReference Include="cloudscribe.Web.StaticFiles" Version="6.0.*" />
-    <PackageReference Include="cloudscribe.Core.SimpleContent" Version="6.0.*" />
     <PackageReference Include="cloudscribe.SimpleContent.Web" Version="6.0.*" />
     <PackageReference Include="cloudscribe.Core.SimpleContent.CompiledViews.Bootstrap5" Version="6.0.*" />
     <PackageReference Include="cloudscribe.SimpleContent.CompiledViews.Bootstrap5" Version="6.0.*" />
@@ -106,6 +105,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\cloudscribe.Core.SimpleContent\cloudscribe.Core.SimpleContent.csproj" />
     <ProjectReference Include="..\cloudscribe.Core.Storage.EFCore.FirebirdSQL\cloudscribe.Core.Storage.EFCore.FirebirdSQL.csproj" />
     <ProjectReference Include="..\cloudscribe.DynamicPolicy.Storage.EFCore.FirebirdSQL\cloudscribe.DynamicPolicy.Storage.EFCore.FirebirdSQL.csproj" />
     <ProjectReference Include="..\cloudscribe.Logging.EFCore.FirebirdSQL\cloudscribe.Logging.EFCore.FirebirdSQL.csproj" />
